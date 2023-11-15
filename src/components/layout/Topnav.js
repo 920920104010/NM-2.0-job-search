@@ -7,7 +7,7 @@ function Topnav() {
     <div>
       <Navbar style={{ backgroundColor: '#5964E0', color: 'white', }}>
         <Navbar.Brand href="#home" style={{ color: 'white', }} >
-          GITHUB DEV JOBS
+          DEV JOBS
     </Navbar.Brand>
       </Navbar>
 
